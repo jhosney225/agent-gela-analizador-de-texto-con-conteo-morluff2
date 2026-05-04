@@ -1,0 +1,6 @@
+{
+  "name": "agent-gela-analizador-de-texto-con-conteo-morluff2",
+  "version": "1.0.0",
+  "description": "Proyecto de Gela [Gen11]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
